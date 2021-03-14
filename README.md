@@ -48,3 +48,4 @@ node ./bin/www
 ```
 npm run serve
 ```
+Le manuel d'utilisation est disponible pour vous aider à naviguer sur le site
