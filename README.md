@@ -26,7 +26,7 @@ Le but de cette application est de proposer aux utilisateurs une gestion simple,
 * [DataGrip: The Cross-Platform IDE for Databases & SQL by JetBrains (executer les scripts .sql)](https://www.jetbrains.com/datagrip/) 
 * [Node.Js 14.8.0 ou supérieur](https://nodejs.org/en/download/)
 * [MySQL 8.0.23 ou supérieur](https://dev.mysql.com/downloads/installer/) (MySQLRootPassword : localhost)
-  * Choisir Use Legacy Authentication Method pour la méthode d'authentification)
+  * Choisir Use Legacy Authentification Method pour la méthode d'authentification)
   * Le type de setup à séectionner est le Developer Default
 
 ## Démarrage du site
