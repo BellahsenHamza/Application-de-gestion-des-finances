@@ -48,4 +48,4 @@ node ./bin/www
 ```
 npm run serve
 ```
-Le manuel d'utilisation est disponible pour vous aider à naviguer sur le site
+[Le manuel d'utilisation](https://github.com/BellahsenHamza/Application-de-gestion-des-finances/blob/main/Manuel%20d'utilisation.pdf) est disponible pour vous aider à naviguer sur le site
